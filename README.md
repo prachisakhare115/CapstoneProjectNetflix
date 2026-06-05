@@ -8,7 +8,7 @@ movies.csv
 In the 3 columns stored are the values of movieId, title and genre. The title has got the release year of movie in parenthesis. The movie list range from Dickson Greeting (1891) to movies of 2015. With the total of 27278 movies.
 
 ratings.csv
-the movies have been rated by 138493 users on the scale of 1 to 5, this file contains the information divided in the column 'userId', 'movieId', 'rating' and 'timestamp'.
+the movies have been rated by 138493 users on the scale of 1 to 5, this file contains the information divided in the column 'userId', 'movieId', 'rating' and 'timestamp'. due to large size only small part of file uploaded here
 
 tags.csv
 this file has the data divided under category 'userId','movieId' and 'tag'
